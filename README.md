@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Hassan Mahmoud Abu Esmail
+# 👋 Hello there! I'm Hassan Mahmoud 
 
 <p align="center">
   <em>AI Solutions Engineer with a passion for building intelligent systems that solve real-world problems.</em>
