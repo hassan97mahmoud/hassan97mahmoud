@@ -76,15 +76,17 @@ I am an AI Engineer specializing in machine learning, Natural Language Processin
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hassan-mahmoud-abo-esmael-166016131/" target="blank">
+  <a href="https://www.linkedin.com/in/hassan-mahmoud-abo-esmael-166016131/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
-  <a href="https://www.kaggle.com/hassanmahmoud97" target="blank">
+  <a href="https://www.kaggle.com/hmaboesmael" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Profile" height="30" width="40" />
   </a>
-  &nbsp; &nbsp;
-  📧 **hmaboesmael@gmail.com**
-  📞 01021469110
+  <a href="mailto:hmaboesmael@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email Me" height="30" width="40" />
+  </a>
+  &nbsp; &nbsp; | &nbsp; &nbsp;
+  📞 **01021469110**
 </p>
 
 ---
