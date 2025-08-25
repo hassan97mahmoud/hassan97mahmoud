@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Hassan Mahmoud 
+# 👋 Hello there! I'm     Hassan Mahmoud 
 
 <p align="center">
   <em>AI Solutions Engineer with a passion for building intelligent systems that solve real-world problems.</em>
@@ -79,13 +79,12 @@ I am an AI Engineer specializing in machine learning, Natural Language Processin
   <a href="https://www.linkedin.com/in/hassan-mahmoud-abo-esmael-166016131/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
-  <a href="https://www.kaggle.com/hassanmahmoud97" target="blank">
+  <a href="[https://www.kaggle.com/hassanmahmoud97](https://www.kaggle.com/hmaboesmael)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Profile" height="30" width="40" />
   </a>
   &nbsp; &nbsp;
   📧 **hmaboesmael@gmail.com**
   📞 01021469110
-  🔗 LinkedIn **https://www.linkedin.com/in/hassan-mahmoud-abo-esmael-166016131/**
 </p>
 
 ---
